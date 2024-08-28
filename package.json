@@ -1,0 +1,15 @@
+{
+  "name": "mcptool-bot",
+  "version": "1.0.0",
+  "main": "mcptoolBot.js",
+  "bin": "mcptoolBot.js",
+  "scripts": {
+    "start": "node mcptoolBot.js"
+  },
+  "dependencies": {
+    "minecraft-colors": "^1.0.1",
+    "minecraft-protocol": "^1.47.0",
+    "mineflayer": "^4.20.1",
+    "socks": "^2.8.3"
+  }
+}
